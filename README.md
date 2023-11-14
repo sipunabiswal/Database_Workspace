@@ -1,2 +1,2 @@
 # Database_Workspace
-Responsible for all database related projects
+Repository creted for the all the database related operations.
